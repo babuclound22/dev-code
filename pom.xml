@@ -46,12 +46,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://54.178.74.89:8081/repository/sample-snapshots/</url>
+		    <url>http://13.232.12.52:8081/repository/nexus-mavan-snap/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.178.74.89:8081/repository/sample-releases/</url>
+		    <url>http://13.232.12.52:8081/repository/nexus-mavan/</url>
 		</repository>
   	</distributionManagement>
 	
